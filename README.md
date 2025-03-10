@@ -1,18 +1,13 @@
 # LLM-Security
 
-## Content Security
+## Overview
 
-### Prompt Security
+**LLM** (Large Language Model) application is an application built with LLM behind. It has different forms including Website, mobile app, Web API, desktop app, etc. This repository is to introduce basic concepts about LLM and basic approach to enhance LLM security.
 
-- Prompt Injection
-- Data Leakage
-- TBD
+## Infrastructure Security
 
-### Output Compliance
+### [NVIDIA NIM](https://docs.nvidia.com/nim/large-language-models/latest/introduction.html)
 
-- TBD
-
-## Model Security
 
 ## LLM Application Security
 
@@ -35,9 +30,23 @@
 
 - [More](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=langchain)
 
-## Infrastructure Security
+## Model Security
 
-### [NVIDIA NIM](https://docs.nvidia.com/nim/large-language-models/latest/introduction.html)
+### Content Security
+
+#### Prompt Security
+
+- Prompt Injection
+- Data Leakage
+- TBD
+
+#### Output Compliance
+
+- TBD
+
+### Compliance
+
+
 
 ## Tools
 
