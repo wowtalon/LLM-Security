@@ -35,9 +35,15 @@
 
 - [More](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=langchain)
 
-## Foundation Security
+## Infrastructure Security
 
-### NIM
+### [NVIDIA NIM](https://docs.nvidia.com/nim/large-language-models/latest/introduction.html)
+
+## Tools
+
+- [AI Infra Guard](https://github.com/Tencent/AI-Infra-Guard)
+- [Garak](https://github.com/NVIDIA/garak)
+- 
 
 ## LLM Regulation
 
