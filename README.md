@@ -16,6 +16,25 @@
 
 ## LLM Application Security
 
+### [Ollama](https://github.com/ollama/ollama)
+
+- CVE-2024-45436
+- CVE-2024-39722
+- CVE-2024-39721
+- CVE-2024-39720
+- CVE-2024-39719
+- CVE-2024-37032
+- CVE-2024-28224
+- [More](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=ollama)
+
+### [Dify](https://github.com/langgenius/dify)
+
+- [More](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=dify)
+
+### [LangChain](https://github.com/langchain-ai/langchain)
+
+- [More](https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=langchain)
+
 ## Foundation Security
 
 ### NIM
