@@ -46,55 +46,14 @@
 
 ### Compliance
 
-### Tools
-
-- [AI Infra Guard](https://github.com/Tencent/AI-Infra-Guard)
-- [Garak](https://github.com/NVIDIA/garak)
-
-### Compliance
-
 #### Output Compliance
 
 - TBD
 
 #### LLM Regulation
-#### LLM Regulation
 
 - [Safe and Secure Innovation for Frontier Artificial Intelligence Models Act](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)
 - [Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
-
-### [Owasp Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-
-## Usage Security
-
-If you are not going deploy or develop your own LLM application, there are also some risks during apdopting LLM service to your daily business. For example, it's very common for user to upload files and ask LLM to do some analysis. Users may upload a file contains confidential information to a public SaaS LLM service, which leads to data leakage.
-
-### Access Control
-
-To prevent your business data from leaking to third party service provider. The easiest way is to block employee from using third party LLM application. Usually, *Access Control* bases on domain/signature. Take *DeepSeek* as an example, you could add `deepseek.com` to blocklist on the firewall to prevent your employee from access *DeepSeek*.
-
-Here are some commonly used LLM application list:
-
-|Application Name|Provider|Domain|
-|-|-|-|
-|DeepSeek|DeepSeek|www.deepseek.com|
-|OpenAI|OpenAI|openai.com|
-|Kimi|Moonshot AI|kimi.moonshot.cn|
-|Doubao|ByteDance|www.doubao.com|
-|文心一言|百度|yiyan.baidu.com|
-|通义千问|阿里巴巴|tongyi.aliyun.com|
-|混元|腾讯|yuanbao.tencent.com|
-|盘古|华为|pangu.huaweicloud.com|
-|星火|科大讯飞|xinghuo.xfyun.cn|
-|商量SenseChat|商汤科技|platform.sensenova.cn|
-|百小应|百川智能|ying.baichuan-ai.com|
-|智谱清言|智谱华章|chatglm.cn|
-|天工AI|昆仑万维|www.tiangong.cn|
-|Coze（扣子）|字节跳动|www.coze.cn|
-
-### Data Security
-
-### Compliance
 
 ### [Owasp Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
