@@ -1,5 +1,8 @@
 # 大语言模型安全
 
+[English](https://github.com/wowtalon/LLM-Security/blob/main/README.md) | [中文版](https://github.com/wowtalon/LLM-Security/blob/main/README_CN.md)
+
+
 ## 总览
 
 **LLM** (大语言模型)应用是指集成了大语言模型的应用，LLM应用存在多种形式，如网页、手机APP、Web API和桌面应用等。本项目旨在介绍大语言模型安全的一些基本概念和防护手段。

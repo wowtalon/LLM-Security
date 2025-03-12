@@ -1,5 +1,7 @@
 # LLM-Security
 
+[English](https://github.com/wowtalon/LLM-Security/blob/main/README.md) | [中文版](https://github.com/wowtalon/LLM-Security/blob/main/README_CN.md)
+
 ## Overview
 
 **LLM** (Large Language Model) application is an application built with LLM behind. It has different forms including Website, mobile app, Web API, desktop app, etc. This repository is to introduce basic concepts about LLM and basic approach to enhance LLM security.
