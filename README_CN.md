@@ -40,12 +40,30 @@
 
 - 提示词注入
 - 数据泄露
+- 数据投毒
+- 偏见攻击
+- 模型窃取
+- 逆向工程
 - 更多
 
 ### 相关工具
 
+#### 漏洞扫描
+
 - [AI Infra Guard](https://github.com/Tencent/AI-Infra-Guard)
 - [Garak](https://github.com/NVIDIA/garak)
+
+### 最佳实践
+
+- 数据治理
+- 模型训练
+- 访问控制
+- 测试
+- 审计
+- 持续监控
+- 输入输出防护
+- 隐私政策
+- 供应链安全
 
 ### 合规
 
@@ -53,10 +71,16 @@
 
 - 更多
 
-#### LLM法律法规
+#### 安全加固
+
+- [GuardRails](https://github.com/NVIDIA/NeMo-Guardrails)
+- [LLM-Guard](https://github.com/protectai/llm-guard)
+
+#### 法律法规及标准
 
 - [Safe and Secure Innovation for Frontier Artificial Intelligence Models Act](https://en.wikipedia.org/wiki/Safe_and_Secure_Innovation_for_Frontier_Artificial_Intelligence_Models_Act)
 - [Artificial Intelligence Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1689)
+- [TC260-003 生成式人工智能服务安全基本要求](https://www.tc260.org.cn/upload/2024-03-01/1709282398070082466.pdf)
 
 ### [Owasp Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
@@ -90,3 +114,8 @@
 ### 数据安全
 
 ### 合规
+
+## 参考
+
+- [[ICLR2024] LLM安全/隐私/越狱/幻觉相关论文合辑](https://zhuanlan.zhihu.com/p/678869912)
+- [LLM Security 101: Protecting Large Language Models from Cyber Threats](https://blog.qualys.com/misc/2025/02/07/llm-security-101-protecting-large-language-models-from-cyber-threats)
